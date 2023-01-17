@@ -22,5 +22,5 @@ Can be used to generate strong, unique passwords for all online accounts
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # Demo
-![Demo](assets/05-javascript-challenge-demo.png "Password demo")
+![Demo]( assets/05-javascript-challenge-demo.png "Password demo")
 
