@@ -16,6 +16,7 @@ The ability to generate a random password using a cryptographically secure funct
 ## Usage
 
 Can be used to generate strong, unique passwords for all online accounts
+Password must contain a minimum of 10 characters and maximu of 65 characters
 
 ## License
 
